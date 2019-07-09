@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">画像判定システム</string>
+    <string name="main_text_top">画像選択</string>
+    <string name="button_Camera">カメラから取得</string>
+    <string name="todo">TODO</string>
+    <string name="button_Gallery">ファイルから取得</string>
+    <string name="check">CHECK</string>
+
+</resources>
